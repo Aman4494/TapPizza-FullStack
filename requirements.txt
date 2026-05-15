@@ -1,0 +1,15 @@
+Frontend:
+react
+react-router-dom
+framer-motion
+tailwindcss
+
+Backend:
+express
+mongoose
+cors
+dotenv
+bcryptjs
+jsonwebtoken
+razorpay
+nodemailer
