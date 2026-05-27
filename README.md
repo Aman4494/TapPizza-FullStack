@@ -119,7 +119,7 @@ TapPizza-FullStack/
 
 ## 📸 Screenshots
 
-Add your project screenshots here later.
+
 
 ---
 
